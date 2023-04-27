@@ -1,0 +1,10 @@
+
+    .icons-sidebar{
+        font-size: 20px;
+        min-width: 30px;
+        height: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+    }

@@ -1,0 +1,30 @@
+small {
+    font-size: 12px;
+    padding: 3px;
+    color: rgb(217, 30, 67);
+}
+
+
+.form-group i {
+    position: absolute;
+    top: 12px;
+    right: 11px;
+    visibility: hidden;
+}
+.form-group.succes input {
+    border-color: #2ecc71;
+}
+
+.form-group.succes i.fa-circle-check {
+    color: #2ecc71;
+    visibility: visible;
+}
+
+.form-group.warning input {
+    border-color: rgb(217, 30, 67);
+}
+
+.form-group.warning i.fa-circle-exclamation {
+    color: rgb(217, 30, 67);
+    visibility: visible;
+}
